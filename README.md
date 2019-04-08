@@ -1,2 +1,2 @@
 # vue-admin
-兼容电脑端与手机端的admin管理,集成丰富的重复使用轮子,让开发如此简单!
+针对github上现存的vue-element-admin,自己从头到尾的搭建一遍
